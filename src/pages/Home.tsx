@@ -4,7 +4,7 @@ import { ArrowRight, CheckCircle2, Clock, Users, Target } from 'lucide-react'
 
 const Home = () => {
   return (
-    <div className="relative">
+    <div className="relative overflow-x-hidden">
       {/* Hero Section */}
       <section className="min-h-screen flex items-center justify-center px-4 sm:px-6 lg:px-8 pt-20">
         <div className="max-w-7xl mx-auto text-center">
