@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 
 const Mernmade = () => {
   return (
-    <div className="relative pt-20">
+    <div className="relative pt-20 overflow-x-hidden">
       {/* Hero Section */}
       <section className="min-h-[60vh] flex items-center justify-center px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto text-center">
